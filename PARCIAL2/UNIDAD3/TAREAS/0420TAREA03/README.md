@@ -1,4 +1,4 @@
-<div style="font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;">
+
 
 # Actividad: Búsqueda binaria y Torre de Hanoi
 
@@ -30,4 +30,4 @@ Reforzar el uso de recursión y comparar enfoques iterativos y recursivos en pro
 *   **BusquedaBinaria.java:** Contiene la búsqueda binaria iterativa y recursiva, además de pruebas para valores encontrados y no encontrados.
 *   **Hanoi.java:** Implementa la solución recursiva de la Torre de Hanoi e imprime los movimientos necesarios.
 
-</div>
+
