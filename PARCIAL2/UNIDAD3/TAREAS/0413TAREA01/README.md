@@ -1,4 +1,4 @@
-<div style="font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;">
+
 
 # Actividad: Factorial iterativo y recursivo
 
@@ -27,5 +27,3 @@ Comparar la solución iterativa y la solución recursiva para el cálculo de fac
 *   **Main.java:** Ejecuta la prueba principal, inicia el cálculo iterativo y muestra el resultado recursivo.
 *   **IterableFactorial.java:** Realiza el cálculo del factorial de forma iterativa.
 *   **RecursiveFactorial.java:** Implementa el cálculo del factorial de forma recursiva.
-
-</div>
