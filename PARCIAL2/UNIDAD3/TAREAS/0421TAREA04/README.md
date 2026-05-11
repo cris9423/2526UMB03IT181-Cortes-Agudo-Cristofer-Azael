@@ -1,4 +1,4 @@
-<div style="font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;">
+
 
 # Actividad: Problema de las 8 reinas (Backtracking)
 
@@ -26,5 +26,3 @@ Practicar técnicas de búsqueda y backtracking (recursión y retroceso) para re
 
 *   **OchoReinas.java:** Contiene la lógica de backtracking para colocar reinas, comprobaciones de seguridad y método de impresión del tablero.
 *   **Main.java:** Inicializa el tablero y ejecuta la solución, mostrando la configuración encontrada o un mensaje si no existe solución.
-
-</div>
