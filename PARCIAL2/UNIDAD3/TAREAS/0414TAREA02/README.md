@@ -1,4 +1,4 @@
-<div style="font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;">
+
 
 # Actividad: Fibonacci iterativo y recursivo
 
@@ -27,5 +27,3 @@ Comparar las implementaciones iterativa y recursiva de la sucesión de Fibonacci
 *   **Main.java:** Ejecuta la prueba principal e imprime los resultados de Fibonacci con ambos métodos.
 *   **FibonacciIterativo.java:** Implementa el cálculo de Fibonacci mediante un proceso iterativo.
 *   **FibonacciRecursive.java:** Implementa el cálculo de Fibonacci mediante recursión.
-
-</div>
