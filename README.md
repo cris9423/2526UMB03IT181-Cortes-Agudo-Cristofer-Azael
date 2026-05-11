@@ -1,4 +1,3 @@
-<div style="font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;">
 
 # Repositorio de Estructura de Datos
 
@@ -32,5 +31,3 @@ Este repositorio contiene las prácticas, tareas y actividades de la materia de 
 ├───UNIDAD5
 └───UNIDAD6
 ```
-
-</div>
